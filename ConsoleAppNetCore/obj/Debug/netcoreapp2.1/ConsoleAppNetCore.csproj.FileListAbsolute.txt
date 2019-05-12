@@ -1,0 +1,11 @@
+C:\Users\swkon\Source\Repos\ConsoleAppNetCore\ConsoleAppNetCore\bin\Debug\netcoreapp2.1\ConsoleAppNetCore.deps.json
+C:\Users\swkon\Source\Repos\ConsoleAppNetCore\ConsoleAppNetCore\bin\Debug\netcoreapp2.1\ConsoleAppNetCore.runtimeconfig.json
+C:\Users\swkon\Source\Repos\ConsoleAppNetCore\ConsoleAppNetCore\bin\Debug\netcoreapp2.1\ConsoleAppNetCore.runtimeconfig.dev.json
+C:\Users\swkon\Source\Repos\ConsoleAppNetCore\ConsoleAppNetCore\bin\Debug\netcoreapp2.1\ConsoleAppNetCore.dll
+C:\Users\swkon\Source\Repos\ConsoleAppNetCore\ConsoleAppNetCore\bin\Debug\netcoreapp2.1\ConsoleAppNetCore.pdb
+C:\Users\swkon\Source\Repos\ConsoleAppNetCore\ConsoleAppNetCore\obj\Debug\netcoreapp2.1\ConsoleAppNetCore.csprojAssemblyReference.cache
+C:\Users\swkon\Source\Repos\ConsoleAppNetCore\ConsoleAppNetCore\obj\Debug\netcoreapp2.1\ConsoleAppNetCore.csproj.CoreCompileInputs.cache
+C:\Users\swkon\Source\Repos\ConsoleAppNetCore\ConsoleAppNetCore\obj\Debug\netcoreapp2.1\ConsoleAppNetCore.AssemblyInfoInputs.cache
+C:\Users\swkon\Source\Repos\ConsoleAppNetCore\ConsoleAppNetCore\obj\Debug\netcoreapp2.1\ConsoleAppNetCore.AssemblyInfo.cs
+C:\Users\swkon\Source\Repos\ConsoleAppNetCore\ConsoleAppNetCore\obj\Debug\netcoreapp2.1\ConsoleAppNetCore.dll
+C:\Users\swkon\Source\Repos\ConsoleAppNetCore\ConsoleAppNetCore\obj\Debug\netcoreapp2.1\ConsoleAppNetCore.pdb
